@@ -16,3 +16,6 @@ dist/
 .idea/
 .vscode/*
 !.vscode/extensions.json
+
+infra/*
+!infra/docker-compose.yml
